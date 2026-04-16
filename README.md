@@ -1,4 +1,4 @@
-Swiggy SQL Analysis - Overview
+### Overview
 
 This project analyzes Swiggy order data using SQL. 
 The dataset includes customers, orders, restaurants, and delivery partners.
